@@ -11,6 +11,6 @@ import statsmodels.api as sm
 import seaborn; seaborn.set()
 
 To use pandas to import the data file this code must be used
-pd,read_csv("file path must go here")
+pd.read_csv("file path must go here")
 
 thanking you.
