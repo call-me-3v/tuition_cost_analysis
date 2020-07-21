@@ -1,7 +1,7 @@
 # tuition_cost_analysis
 This is an analysis of tuition cost in different states in United State of America using Python
 
-The libraries below must be iinstalled and imported when work in an pyhton environment.
+The libraries below must be iinstalled and imported when working in any python environment.
 
 import pandas as pd
 import matplotlib.pyplot as plt
